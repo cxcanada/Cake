@@ -1,0 +1,28 @@
+.ui-logo {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.ui-small-logo {
+    width: 2.5rem;
+    margin-left: 7rem;
+    margin-top: -1rem;
+}
+
+.ui-not-found {
+    width: 40%;
+    margin-left: 6.5rem;
+    margin-bottom: 2rem;
+    display: block;
+}
+
+.add-todo {
+    margin-left: 40%;
+    margin-top: 2rem;
+    width: 20%;
+    stroke: #dd7960;
+}
+
+.add-todo:hover {
+    cursor: pointer;
+}

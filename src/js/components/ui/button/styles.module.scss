@@ -1,0 +1,37 @@
+%baseBtn {
+    border: 1px solid #610345;
+    padding: 0.5rem;
+    border-radius: 0.2rem;
+    width: 5rem;
+    margin-top: 2rem;
+    margin-right: 3rem;
+    margin-left: 2rem;
+}
+
+.btn {
+    @extend %baseBtn;
+    background-color: bisque;
+}
+
+.btn-add {
+    @extend %baseBtn;
+    background-color: rgb(150, 240, 158);
+}
+
+.btn-edit {
+    @extend %baseBtn;
+    background-color: cornflowerblue;
+}
+
+.btn-delete {
+    @extend %baseBtn;
+    margin-left: 3.6rem;
+    background-color: tomato;
+}
+
+.btn:hover {
+    background-color: wheat;
+    color: maroon;
+    font-weight: bold;
+    cursor: pointer;
+}

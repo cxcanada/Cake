@@ -1,0 +1,41 @@
+[{
+    "category": "Daily",
+    "title": "Feed my dog.",
+    "isComplete": true,
+    "startDate": "2021-10-13",
+    "startTime": "7:30AM",
+    "endDate": "2021-10-13",
+    "endTime": "7:45AM"
+}, {
+    "category": "Weekly",
+    "title": "Water plants.",
+    "isComplete": false,
+    "startDate": "2021-10-14",
+    "startTime": "8:00AM",
+    "endDate": "2021-10-18",
+    "endTime": "6:00PM"
+}, {
+    "category": "Monthly",
+    "title": "Water plants.",
+    "isComplete": true,
+    "startDate": "2021-10-14",
+    "startTime": "8:00AM",
+    "endDate": "2021-10-18",
+    "endTime": "6:00PM"
+}, {
+    "category": "Quarterly",
+    "title": "Pay rent",
+    "isComplete": true,
+    "startDate": "2021-09-13",
+    "startTime": "8:00AM",
+    "endDate": "2021-12-13",
+    "endTime": "8:00AM"
+}, {
+    "category": "Annually",
+    "title": "Renew internet contract",
+    "isComplete": false,
+    "startDate": "2021-01-01",
+    "startTime": "8:00AM",
+    "endDate": "2021-12-31",
+    "endTime": "11:59PM"
+}]
